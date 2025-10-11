@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:17.808;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 256 0 C 242.15001 0 231 11.150014 231 25 L 231 231 L 25 231 C 11.150014 231 0 242.15001 0 256 C 0 269.84999 11.150014 281 25 281 L 231 281 L 231 487 C 231 500.84999 242.15001 512 256 512 C 269.84999 512 281 500.84999 281 487 L 281 281 L 487 281 C 500.84999 281 512 269.84999 512 256 C 512 242.15001 500.84999 231 487 231 L 281 231 L 281 25 C 281 11.150014 269.84999 0 256 0 z " />
+  </g>
+</svg>
